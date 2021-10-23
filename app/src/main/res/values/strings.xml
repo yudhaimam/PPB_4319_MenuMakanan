@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Food Menu</string>
+    <string name="app_detail">Detail Menu</string>
+
+    <string name="title">Relaxed Food</string>
+    <string name="subtitle">Delicious, Filling and Refreshing</string>
+
+    <string name="txt_foodName">Food Name</string>
+    <string name="txt_foodDesc">Food Desc</string>
+    <string name="txt_foodPrice">Food Price</string>
+
+    <string name="txt_AyamGoreng">Ayam Goreng</string>
+    <string name="txt_AyamKrispi">Ayam Krispi</string>
+    <string name="txt_NasiGoreng">Nasi Goreng</string>
+    <string name="txt_MieGoreng">Mie Goreng</string>
+    <string name="txt_MieAyam">Mie Ayam</string>
+    <string name="txt_Bakso">Bakso</string>
+    <string name="txt_Soto">Soto</string>
+    <string name="txt_SateAyam">Sate Ayam</string>
+    <string name="txt_BuburAyam">Bubur Ayam</string>
+    <string name="txt_SayurSop">Sayur Sop</string>
+
+    <string name="txt_desc_AyamGoreng">Desc Makanan</string>
+    <string name="txt_desc_Ayamkrispi">Desc Makanan</string>
+    <string name="txt_desc_NasiGoreng">Desc Makanan</string>
+    <string name="txt_desc_MieGoreng">Desc Makanan</string>
+    <string name="txt_desc_MieAyam">Desc Makanan</string>
+    <string name="txt_desc_Bakso">Desc Makanan</string>
+    <string name="txt_desc_Soto">Desc Makanan</string>
+    <string name="txt_desc_SateAyam">Desc Makanan</string>
+    <string name="txt_desc_BuburAyam">Desc Makanan</string>
+    <string name="txt_desc_SayurSop">Desc Makanan</string>
+
+    <string name="txt_harga_AyamGoreng">Rp15.000</string>
+    <string name="txt_harga_Ayamkrispi">Rp15.000</string>
+    <string name="txt_harga_NasiGoreng">Rp15.000</string>
+    <string name="txt_harga_MieGoreng">Rp15.000</string>
+    <string name="txt_harga_MieAyam">Rp15.000</string>
+    <string name="txt_harga_Bakso">Rp15.000</string>
+    <string name="txt_harga_Soto">Rp15.000</string>
+    <string name="txt_harga_SateAyam">Rp15.000</string>
+    <string name="txt_harga_BuburAyam">Rp15.000</string>
+    <string name="txt_harga_SayurSop">Rp15.000</string>
+</resources>
